@@ -15,9 +15,9 @@ Through these experiences, I’ve grown passionate about **bridging backend effi
 ---
 
 ### 🧩 Featured Projects  
-- 🛰️ **Monitoring of Crime Risk for Mass Transit** — Geospatial web app integrating **Supabase**, **Node.js**, and **AWS Lambda** for automated daily risk updates.  
-- 🧠 **Roommate Finder App** — **React + Flask + Firebase** system with a **TensorFlow recommendation model** for improved roommate matching accuracy.  
-- 💳 **Credit Card Approval Analysis** — **Python data pipeline** and **visualization dashboard** for analyzing credit approval patterns using **PCA** and feature engineering.  
+- **Monitoring of Crime Risk for Mass Transit** — Geospatial web app integrating **Supabase**, **Node.js**, and **AWS Lambda** for automated daily risk updates.  
+- **Roommate Finder App** — **React + Flask + Firebase** system with a **TensorFlow recommendation model** for improved roommate matching accuracy.  
+- **Credit Card Approval Analysis** — **Python data pipeline** and **visualization dashboard** for analyzing credit approval patterns using **PCA** and feature engineering.  
 
 ---
 
